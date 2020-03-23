@@ -4,8 +4,8 @@ My First SwiftUI App
 ## Learned about...
 + `ZStack`
 + `VStack`
-+ `Color`{.swift}
-  - `.edgesIgnoringSafeArea(.all)`{.swift}
++ `Color`
+  - `.edgesIgnoringSafeArea(.all)`
 + `Text("I Am Rich")`
   - `.font(.system(size: 40))`
   - `.fontWeight(.bold)`
