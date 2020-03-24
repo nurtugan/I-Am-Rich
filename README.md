@@ -15,7 +15,7 @@ My First SwiftUI App
   - `.aspectRatio(contentMode: .fit)`
   - `.frame(width: 200, height: 200, alignment: .center)`
 
-## Main screen
+## Main view
 <img src="https://github.com/nurtugan/I-Am-Rich/blob/master/Screen%20Shot%202020-03-23%20at%2011.05.01%20PM.png" alt="" width="371" height="648">
 
 ## App icon
